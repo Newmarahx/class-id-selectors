@@ -1,0 +1,23 @@
+.para1{
+    background-color:pink;
+    font-family:Verdana,DejaVu Sans,sans-serif;
+    
+}
+
+#content{
+    color:blue;
+    font-size: 36px;
+}
+
+.para2{
+    background-color:pink;
+    font-family:Verdana,DejaVu Sans,sans-serif;
+    font-size:24px;
+}
+
+
+#contented{
+    background-color: lightgreen;
+    font-size: 24px;
+    font-weight: bold;
+}
